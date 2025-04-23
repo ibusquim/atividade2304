@@ -5,8 +5,11 @@ p{
     text-align: center;
 }
 
-p{
-
-    text-align:center
+body{
+    background: #FF00FF
+}
     
-    }
+#marca{
+    font-size: 50px
+}
+    
